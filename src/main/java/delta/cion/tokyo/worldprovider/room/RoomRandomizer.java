@@ -1,4 +1,4 @@
-package delta.cion.cherry.worldprovider.room;
+package delta.cion.tokyo.worldprovider.room;
 
 public class RoomRandomizer {
 
